@@ -1,3 +1,4 @@
 # arquivo main 
 
 *.py
+!exe
