@@ -38,5 +38,5 @@ Instale my-project com npm
 
 ## Interface
 
-![App Screenshot](path\screenshot.png)
+![App Screenshot](path/screenshot.png)
 
